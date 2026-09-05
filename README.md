@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sonali 👋
 
-<!--
-**sonali161727/sonali161727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student  
+💻 Learning Python, Java, C++ and SQL  
+🔐 Interested in Cybersecurity, Software Development and Data Science
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building projects to improve my programming and problem-solving skills. I enjoy learning by creating small practical projects and gradually making them better.
+
+## 🛠️ Skills
+
+- Python
+- Java
+- C++
+- SQL
+- Git & GitHub
+- HTML/CSS
+
+## 🚀 Projects
+
+### 🔐 Cybersecurity Log Analyzer
+A Python project that analyzes login logs, detects suspicious IP addresses and generates a security report.
+
+👉 [View Project](https://github.com/sonali161727/Cybersecurity_log_Analyzer)
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- SQL
+- Java
+- Data Science
+
+## 📌 Goals
+
+- Build more practical projects
+- Improve my DSA skills
+- Learn new technologies
+- Keep growing as a developer
+
+Thanks for visiting my profile! 😊
